@@ -1,3 +1,5 @@
+# Project Documentation
+
 This repository contains the documentation for "The Game", an interactive electronic board game developed as part of the Embedded and Ubiquitous Systems course.
 
 ## Documents
