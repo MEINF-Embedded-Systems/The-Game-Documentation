@@ -4,9 +4,9 @@ This repository contains the documentation for "The Game", an interactive electr
 
 ## Documents
 
-* **[The Game Engineering Book.pdf](The-Game-Engineering-Book.pdf):** This document provides a comprehensive overview of the project, including its milestones, component breakdown, game rules, development process, challenges encountered, results achieved, and future work suggestions.  It serves as a detailed record of the engineering process.
+* **[The Game Engineering Book.pdf]([The-Game-Engineering-Book.pdf](https://github.com/MEINF-Embedded-Systems/The-Game-Documentation/blob/main/The%20Game%20Engineering%20Book.pdf)):** This document provides a comprehensive overview of the project, including its milestones, component breakdown, game rules, development process, challenges encountered, results achieved, and future work suggestions.  It serves as a detailed record of the engineering process.
 
-* **[The Game Technical Documentation.pdf](The-Game-Technical-Documentation.pdf):** This document focuses on the technical aspects of the project, including wiring schematics for all components and the MQTT topic tree structure used for communication between devices. It provides the necessary information to replicate the hardware and software setup.
+* **[The Game Technical Documentation.pdf]([The-Game-Technical-Documentation.pdf](https://github.com/MEINF-Embedded-Systems/The-Game-Documentation/blob/main/The%20Game%20Technical%20Documentation.pdf)):** This document focuses on the technical aspects of the project, including wiring schematics for all components and the MQTT topic tree structure used for communication between devices. It provides the necessary information to replicate the hardware and software setup.
 
 
 ## Project Overview
